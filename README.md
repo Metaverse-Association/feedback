@@ -11,3 +11,10 @@ The repo would look like [this](https://github.com/github/feedback/discussions):
 
 [![image](https://user-images.githubusercontent.com/63426722/142430678-0cb210a3-7e00-4bf6-80c5-f87b2daf6aa5.png)](https://github.com/github/feedback/discussions)
 
+# Questions 
+
+- When does the feedback committee meet to review the feedback? 
+- What is the working agreement of this group? 
+  - When will we meet? For what? (Ceremonies) 
+  - How will we respect each other? 
+  - What is the process of going from suggestion to action item? 
